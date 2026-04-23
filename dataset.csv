@@ -1,0 +1,501 @@
+StudentID,StudentName,Certification,Completed,NotCompletedReason
+1,Student_1,AWS Solutions Architect,FALSE,Exam not booked
+2,Student_2,MongoDB,TRUE,
+3,Student_3,AWS Cloud Practitioner,FALSE,Cost issue
+4,Student_4,AWS Solutions Architect,TRUE,
+5,Student_5,MongoDB,FALSE,Time constraint
+6,Student_6,AWS Cloud Practitioner,TRUE,
+7,Student_7,AWS Solutions Architect,FALSE,Lack of preparation
+8,Student_8,MongoDB,TRUE,
+9,Student_9,AWS Cloud Practitioner,FALSE,Workload pressure
+10,Student_10,AWS Solutions Architect,TRUE,
+11,Student_11,MongoDB,FALSE,Exam not booked
+12,Student_12,AWS Cloud Practitioner,TRUE,
+13,Student_13,AWS Solutions Architect,FALSE,Cost issue
+14,Student_14,MongoDB,TRUE,
+15,Student_15,AWS Cloud Practitioner,FALSE,Time constraint
+16,Student_16,AWS Solutions Architect,TRUE,
+17,Student_17,MongoDB,FALSE,Lack of preparation
+18,Student_18,AWS Cloud Practitioner,TRUE,
+19,Student_19,AWS Solutions Architect,FALSE,Workload pressure
+20,Student_20,MongoDB,TRUE,
+21,Student_21,AWS Cloud Practitioner,FALSE,Exam not booked
+22,Student_22,AWS Solutions Architect,TRUE,
+23,Student_23,MongoDB,FALSE,Cost issue
+24,Student_24,AWS Cloud Practitioner,TRUE,
+25,Student_25,AWS Solutions Architect,FALSE,Time constraint
+26,Student_26,MongoDB,TRUE,
+27,Student_27,AWS Cloud Practitioner,FALSE,Lack of preparation
+28,Student_28,AWS Solutions Architect,TRUE,
+29,Student_29,MongoDB,FALSE,Workload pressure
+30,Student_30,AWS Cloud Practitioner,TRUE,
+31,Student_31,AWS Solutions Architect,FALSE,Exam not booked
+32,Student_32,MongoDB,TRUE,
+33,Student_33,AWS Cloud Practitioner,FALSE,Cost issue
+34,Student_34,AWS Solutions Architect,TRUE,
+35,Student_35,MongoDB,FALSE,Time constraint
+36,Student_36,AWS Cloud Practitioner,TRUE,
+37,Student_37,AWS Solutions Architect,FALSE,Lack of preparation
+38,Student_38,MongoDB,TRUE,
+39,Student_39,AWS Cloud Practitioner,FALSE,Workload pressure
+40,Student_40,AWS Solutions Architect,TRUE,
+41,Student_41,MongoDB,FALSE,Exam not booked
+42,Student_42,AWS Cloud Practitioner,TRUE,
+43,Student_43,AWS Solutions Architect,FALSE,Cost issue
+44,Student_44,MongoDB,TRUE,
+45,Student_45,AWS Cloud Practitioner,FALSE,Time constraint
+46,Student_46,AWS Solutions Architect,TRUE,
+47,Student_47,MongoDB,FALSE,Lack of preparation
+48,Student_48,AWS Cloud Practitioner,TRUE,
+49,Student_49,AWS Solutions Architect,FALSE,Workload pressure
+50,Student_50,MongoDB,TRUE,
+51,Student_51,AWS Cloud Practitioner,FALSE,Exam not booked
+52,Student_52,AWS Solutions Architect,TRUE,
+53,Student_53,MongoDB,FALSE,Cost issue
+54,Student_54,AWS Cloud Practitioner,TRUE,
+55,Student_55,AWS Solutions Architect,FALSE,Time constraint
+56,Student_56,MongoDB,TRUE,
+57,Student_57,AWS Cloud Practitioner,FALSE,Lack of preparation
+58,Student_58,AWS Solutions Architect,TRUE,
+59,Student_59,MongoDB,FALSE,Workload pressure
+60,Student_60,AWS Cloud Practitioner,TRUE,
+61,Student_61,AWS Solutions Architect,FALSE,Exam not booked
+62,Student_62,MongoDB,TRUE,
+63,Student_63,AWS Cloud Practitioner,FALSE,Cost issue
+64,Student_64,AWS Solutions Architect,TRUE,
+65,Student_65,MongoDB,FALSE,Time constraint
+66,Student_66,AWS Cloud Practitioner,TRUE,
+67,Student_67,AWS Solutions Architect,FALSE,Lack of preparation
+68,Student_68,MongoDB,TRUE,
+69,Student_69,AWS Cloud Practitioner,FALSE,Workload pressure
+70,Student_70,AWS Solutions Architect,TRUE,
+71,Student_71,MongoDB,FALSE,Exam not booked
+72,Student_72,AWS Cloud Practitioner,TRUE,
+73,Student_73,AWS Solutions Architect,FALSE,Cost issue
+74,Student_74,MongoDB,TRUE,
+75,Student_75,AWS Cloud Practitioner,FALSE,Time constraint
+76,Student_76,AWS Solutions Architect,TRUE,
+77,Student_77,MongoDB,FALSE,Lack of preparation
+78,Student_78,AWS Cloud Practitioner,TRUE,
+79,Student_79,AWS Solutions Architect,FALSE,Workload pressure
+80,Student_80,MongoDB,TRUE,
+81,Student_81,AWS Cloud Practitioner,FALSE,Exam not booked
+82,Student_82,AWS Solutions Architect,TRUE,
+83,Student_83,MongoDB,FALSE,Cost issue
+84,Student_84,AWS Cloud Practitioner,TRUE,
+85,Student_85,AWS Solutions Architect,FALSE,Time constraint
+86,Student_86,MongoDB,TRUE,
+87,Student_87,AWS Cloud Practitioner,FALSE,Lack of preparation
+88,Student_88,AWS Solutions Architect,TRUE,
+89,Student_89,MongoDB,FALSE,Workload pressure
+90,Student_90,AWS Cloud Practitioner,TRUE,
+91,Student_91,AWS Solutions Architect,FALSE,Exam not booked
+92,Student_92,MongoDB,TRUE,
+93,Student_93,AWS Cloud Practitioner,FALSE,Cost issue
+94,Student_94,AWS Solutions Architect,TRUE,
+95,Student_95,MongoDB,FALSE,Time constraint
+96,Student_96,AWS Cloud Practitioner,TRUE,
+97,Student_97,AWS Solutions Architect,FALSE,Lack of preparation
+98,Student_98,MongoDB,TRUE,
+99,Student_99,AWS Cloud Practitioner,FALSE,Workload pressure
+100,Student_100,AWS Solutions Architect,TRUE,
+101,Student_101,MongoDB,FALSE,Exam not booked
+102,Student_102,AWS Cloud Practitioner,TRUE,
+103,Student_103,AWS Solutions Architect,FALSE,Cost issue
+104,Student_104,MongoDB,TRUE,
+105,Student_105,AWS Cloud Practitioner,FALSE,Time constraint
+106,Student_106,AWS Solutions Architect,TRUE,
+107,Student_107,MongoDB,FALSE,Lack of preparation
+108,Student_108,AWS Cloud Practitioner,TRUE,
+109,Student_109,AWS Solutions Architect,FALSE,Workload pressure
+110,Student_110,MongoDB,TRUE,
+111,Student_111,AWS Cloud Practitioner,FALSE,Exam not booked
+112,Student_112,AWS Solutions Architect,TRUE,
+113,Student_113,MongoDB,FALSE,Cost issue
+114,Student_114,AWS Cloud Practitioner,TRUE,
+115,Student_115,AWS Solutions Architect,FALSE,Time constraint
+116,Student_116,MongoDB,TRUE,
+117,Student_117,AWS Cloud Practitioner,FALSE,Lack of preparation
+118,Student_118,AWS Solutions Architect,TRUE,
+119,Student_119,MongoDB,FALSE,Workload pressure
+120,Student_120,AWS Cloud Practitioner,TRUE,
+121,Student_121,AWS Solutions Architect,FALSE,Exam not booked
+122,Student_122,MongoDB,TRUE,
+123,Student_123,AWS Cloud Practitioner,FALSE,Cost issue
+124,Student_124,AWS Solutions Architect,TRUE,
+125,Student_125,MongoDB,FALSE,Time constraint
+126,Student_126,AWS Cloud Practitioner,TRUE,
+127,Student_127,AWS Solutions Architect,FALSE,Lack of preparation
+128,Student_128,MongoDB,TRUE,
+129,Student_129,AWS Cloud Practitioner,FALSE,Workload pressure
+130,Student_130,AWS Solutions Architect,TRUE,
+131,Student_131,MongoDB,FALSE,Exam not booked
+132,Student_132,AWS Cloud Practitioner,TRUE,
+133,Student_133,AWS Solutions Architect,FALSE,Cost issue
+134,Student_134,MongoDB,TRUE,
+135,Student_135,AWS Cloud Practitioner,FALSE,Time constraint
+136,Student_136,AWS Solutions Architect,TRUE,
+137,Student_137,MongoDB,FALSE,Lack of preparation
+138,Student_138,AWS Cloud Practitioner,TRUE,
+139,Student_139,AWS Solutions Architect,FALSE,Workload pressure
+140,Student_140,MongoDB,TRUE,
+141,Student_141,AWS Cloud Practitioner,FALSE,Exam not booked
+142,Student_142,AWS Solutions Architect,TRUE,
+143,Student_143,MongoDB,FALSE,Cost issue
+144,Student_144,AWS Cloud Practitioner,TRUE,
+145,Student_145,AWS Solutions Architect,FALSE,Time constraint
+146,Student_146,MongoDB,TRUE,
+147,Student_147,AWS Cloud Practitioner,FALSE,Lack of preparation
+148,Student_148,AWS Solutions Architect,TRUE,
+149,Student_149,MongoDB,FALSE,Workload pressure
+150,Student_150,AWS Cloud Practitioner,TRUE,
+151,Student_151,AWS Solutions Architect,FALSE,Exam not booked
+152,Student_152,MongoDB,TRUE,
+153,Student_153,AWS Cloud Practitioner,FALSE,Cost issue
+154,Student_154,AWS Solutions Architect,TRUE,
+155,Student_155,MongoDB,FALSE,Time constraint
+156,Student_156,AWS Cloud Practitioner,TRUE,
+157,Student_157,AWS Solutions Architect,FALSE,Lack of preparation
+158,Student_158,MongoDB,TRUE,
+159,Student_159,AWS Cloud Practitioner,FALSE,Workload pressure
+160,Student_160,AWS Solutions Architect,TRUE,
+161,Student_161,MongoDB,FALSE,Exam not booked
+162,Student_162,AWS Cloud Practitioner,TRUE,
+163,Student_163,AWS Solutions Architect,FALSE,Cost issue
+164,Student_164,MongoDB,TRUE,
+165,Student_165,AWS Cloud Practitioner,FALSE,Time constraint
+166,Student_166,AWS Solutions Architect,TRUE,
+167,Student_167,MongoDB,FALSE,Lack of preparation
+168,Student_168,AWS Cloud Practitioner,TRUE,
+169,Student_169,AWS Solutions Architect,FALSE,Workload pressure
+170,Student_170,MongoDB,TRUE,
+171,Student_171,AWS Cloud Practitioner,FALSE,Exam not booked
+172,Student_172,AWS Solutions Architect,TRUE,
+173,Student_173,MongoDB,FALSE,Cost issue
+174,Student_174,AWS Cloud Practitioner,TRUE,
+175,Student_175,AWS Solutions Architect,FALSE,Time constraint
+176,Student_176,MongoDB,TRUE,
+177,Student_177,AWS Cloud Practitioner,FALSE,Lack of preparation
+178,Student_178,AWS Solutions Architect,TRUE,
+179,Student_179,MongoDB,FALSE,Workload pressure
+180,Student_180,AWS Cloud Practitioner,TRUE,
+181,Student_181,AWS Solutions Architect,FALSE,Exam not booked
+182,Student_182,MongoDB,TRUE,
+183,Student_183,AWS Cloud Practitioner,FALSE,Cost issue
+184,Student_184,AWS Solutions Architect,TRUE,
+185,Student_185,MongoDB,FALSE,Time constraint
+186,Student_186,AWS Cloud Practitioner,TRUE,
+187,Student_187,AWS Solutions Architect,FALSE,Lack of preparation
+188,Student_188,MongoDB,TRUE,
+189,Student_189,AWS Cloud Practitioner,FALSE,Workload pressure
+190,Student_190,AWS Solutions Architect,TRUE,
+191,Student_191,MongoDB,FALSE,Exam not booked
+192,Student_192,AWS Cloud Practitioner,TRUE,
+193,Student_193,AWS Solutions Architect,FALSE,Cost issue
+194,Student_194,MongoDB,TRUE,
+195,Student_195,AWS Cloud Practitioner,FALSE,Time constraint
+196,Student_196,AWS Solutions Architect,TRUE,
+197,Student_197,MongoDB,FALSE,Lack of preparation
+198,Student_198,AWS Cloud Practitioner,TRUE,
+199,Student_199,AWS Solutions Architect,FALSE,Workload pressure
+200,Student_200,MongoDB,TRUE,
+201,Student_201,AWS Cloud Practitioner,FALSE,Exam not booked
+202,Student_202,AWS Solutions Architect,TRUE,
+203,Student_203,MongoDB,FALSE,Cost issue
+204,Student_204,AWS Cloud Practitioner,TRUE,
+205,Student_205,AWS Solutions Architect,FALSE,Time constraint
+206,Student_206,MongoDB,TRUE,
+207,Student_207,AWS Cloud Practitioner,FALSE,Lack of preparation
+208,Student_208,AWS Solutions Architect,TRUE,
+209,Student_209,MongoDB,FALSE,Workload pressure
+210,Student_210,AWS Cloud Practitioner,TRUE,
+211,Student_211,AWS Solutions Architect,FALSE,Exam not booked
+212,Student_212,MongoDB,TRUE,
+213,Student_213,AWS Cloud Practitioner,FALSE,Cost issue
+214,Student_214,AWS Solutions Architect,TRUE,
+215,Student_215,MongoDB,FALSE,Time constraint
+216,Student_216,AWS Cloud Practitioner,TRUE,
+217,Student_217,AWS Solutions Architect,FALSE,Lack of preparation
+218,Student_218,MongoDB,TRUE,
+219,Student_219,AWS Cloud Practitioner,FALSE,Workload pressure
+220,Student_220,AWS Solutions Architect,TRUE,
+221,Student_221,MongoDB,FALSE,Exam not booked
+222,Student_222,AWS Cloud Practitioner,TRUE,
+223,Student_223,AWS Solutions Architect,FALSE,Cost issue
+224,Student_224,MongoDB,TRUE,
+225,Student_225,AWS Cloud Practitioner,FALSE,Time constraint
+226,Student_226,AWS Solutions Architect,TRUE,
+227,Student_227,MongoDB,FALSE,Lack of preparation
+228,Student_228,AWS Cloud Practitioner,TRUE,
+229,Student_229,AWS Solutions Architect,FALSE,Workload pressure
+230,Student_230,MongoDB,TRUE,
+231,Student_231,AWS Cloud Practitioner,FALSE,Exam not booked
+232,Student_232,AWS Solutions Architect,TRUE,
+233,Student_233,MongoDB,FALSE,Cost issue
+234,Student_234,AWS Cloud Practitioner,TRUE,
+235,Student_235,AWS Solutions Architect,FALSE,Time constraint
+236,Student_236,MongoDB,TRUE,
+237,Student_237,AWS Cloud Practitioner,FALSE,Lack of preparation
+238,Student_238,AWS Solutions Architect,TRUE,
+239,Student_239,MongoDB,FALSE,Workload pressure
+240,Student_240,AWS Cloud Practitioner,TRUE,
+241,Student_241,AWS Solutions Architect,FALSE,Exam not booked
+242,Student_242,MongoDB,TRUE,
+243,Student_243,AWS Cloud Practitioner,FALSE,Cost issue
+244,Student_244,AWS Solutions Architect,TRUE,
+245,Student_245,MongoDB,FALSE,Time constraint
+246,Student_246,AWS Cloud Practitioner,TRUE,
+247,Student_247,AWS Solutions Architect,FALSE,Lack of preparation
+248,Student_248,MongoDB,TRUE,
+249,Student_249,AWS Cloud Practitioner,FALSE,Workload pressure
+250,Student_250,AWS Solutions Architect,TRUE,
+251,Student_251,MongoDB,FALSE,Exam not booked
+252,Student_252,AWS Cloud Practitioner,TRUE,
+253,Student_253,AWS Solutions Architect,FALSE,Cost issue
+254,Student_254,MongoDB,TRUE,
+255,Student_255,AWS Cloud Practitioner,FALSE,Time constraint
+256,Student_256,AWS Solutions Architect,TRUE,
+257,Student_257,MongoDB,FALSE,Lack of preparation
+258,Student_258,AWS Cloud Practitioner,TRUE,
+259,Student_259,AWS Solutions Architect,FALSE,Workload pressure
+260,Student_260,MongoDB,TRUE,
+261,Student_261,AWS Cloud Practitioner,FALSE,Exam not booked
+262,Student_262,AWS Solutions Architect,TRUE,
+263,Student_263,MongoDB,FALSE,Cost issue
+264,Student_264,AWS Cloud Practitioner,TRUE,
+265,Student_265,AWS Solutions Architect,FALSE,Time constraint
+266,Student_266,MongoDB,TRUE,
+267,Student_267,AWS Cloud Practitioner,FALSE,Lack of preparation
+268,Student_268,AWS Solutions Architect,TRUE,
+269,Student_269,MongoDB,FALSE,Workload pressure
+270,Student_270,AWS Cloud Practitioner,TRUE,
+271,Student_271,AWS Solutions Architect,FALSE,Exam not booked
+272,Student_272,MongoDB,TRUE,
+273,Student_273,AWS Cloud Practitioner,FALSE,Cost issue
+274,Student_274,AWS Solutions Architect,TRUE,
+275,Student_275,MongoDB,FALSE,Time constraint
+276,Student_276,AWS Cloud Practitioner,TRUE,
+277,Student_277,AWS Solutions Architect,FALSE,Lack of preparation
+278,Student_278,MongoDB,TRUE,
+279,Student_279,AWS Cloud Practitioner,FALSE,Workload pressure
+280,Student_280,AWS Solutions Architect,TRUE,
+281,Student_281,MongoDB,FALSE,Exam not booked
+282,Student_282,AWS Cloud Practitioner,TRUE,
+283,Student_283,AWS Solutions Architect,FALSE,Cost issue
+284,Student_284,MongoDB,TRUE,
+285,Student_285,AWS Cloud Practitioner,FALSE,Time constraint
+286,Student_286,AWS Solutions Architect,TRUE,
+287,Student_287,MongoDB,FALSE,Lack of preparation
+288,Student_288,AWS Cloud Practitioner,TRUE,
+289,Student_289,AWS Solutions Architect,FALSE,Workload pressure
+290,Student_290,MongoDB,TRUE,
+291,Student_291,AWS Cloud Practitioner,FALSE,Exam not booked
+292,Student_292,AWS Solutions Architect,TRUE,
+293,Student_293,MongoDB,FALSE,Cost issue
+294,Student_294,AWS Cloud Practitioner,TRUE,
+295,Student_295,AWS Solutions Architect,FALSE,Time constraint
+296,Student_296,MongoDB,TRUE,
+297,Student_297,AWS Cloud Practitioner,FALSE,Lack of preparation
+298,Student_298,AWS Solutions Architect,TRUE,
+299,Student_299,MongoDB,FALSE,Workload pressure
+300,Student_300,AWS Cloud Practitioner,TRUE,
+301,Student_301,AWS Solutions Architect,FALSE,Exam not booked
+302,Student_302,MongoDB,TRUE,
+303,Student_303,AWS Cloud Practitioner,FALSE,Cost issue
+304,Student_304,AWS Solutions Architect,TRUE,
+305,Student_305,MongoDB,FALSE,Time constraint
+306,Student_306,AWS Cloud Practitioner,TRUE,
+307,Student_307,AWS Solutions Architect,FALSE,Lack of preparation
+308,Student_308,MongoDB,TRUE,
+309,Student_309,AWS Cloud Practitioner,FALSE,Workload pressure
+310,Student_310,AWS Solutions Architect,TRUE,
+311,Student_311,MongoDB,FALSE,Exam not booked
+312,Student_312,AWS Cloud Practitioner,TRUE,
+313,Student_313,AWS Solutions Architect,FALSE,Cost issue
+314,Student_314,MongoDB,TRUE,
+315,Student_315,AWS Cloud Practitioner,FALSE,Time constraint
+316,Student_316,AWS Solutions Architect,TRUE,
+317,Student_317,MongoDB,FALSE,Lack of preparation
+318,Student_318,AWS Cloud Practitioner,TRUE,
+319,Student_319,AWS Solutions Architect,FALSE,Workload pressure
+320,Student_320,MongoDB,TRUE,
+321,Student_321,AWS Cloud Practitioner,FALSE,Exam not booked
+322,Student_322,AWS Solutions Architect,TRUE,
+323,Student_323,MongoDB,FALSE,Cost issue
+324,Student_324,AWS Cloud Practitioner,TRUE,
+325,Student_325,AWS Solutions Architect,FALSE,Time constraint
+326,Student_326,MongoDB,TRUE,
+327,Student_327,AWS Cloud Practitioner,FALSE,Lack of preparation
+328,Student_328,AWS Solutions Architect,TRUE,
+329,Student_329,MongoDB,FALSE,Workload pressure
+330,Student_330,AWS Cloud Practitioner,TRUE,
+331,Student_331,AWS Solutions Architect,FALSE,Exam not booked
+332,Student_332,MongoDB,TRUE,
+333,Student_333,AWS Cloud Practitioner,FALSE,Cost issue
+334,Student_334,AWS Solutions Architect,TRUE,
+335,Student_335,MongoDB,FALSE,Time constraint
+336,Student_336,AWS Cloud Practitioner,TRUE,
+337,Student_337,AWS Solutions Architect,FALSE,Lack of preparation
+338,Student_338,MongoDB,TRUE,
+339,Student_339,AWS Cloud Practitioner,FALSE,Workload pressure
+340,Student_340,AWS Solutions Architect,TRUE,
+341,Student_341,MongoDB,FALSE,Exam not booked
+342,Student_342,AWS Cloud Practitioner,TRUE,
+343,Student_343,AWS Solutions Architect,FALSE,Cost issue
+344,Student_344,MongoDB,TRUE,
+345,Student_345,AWS Cloud Practitioner,FALSE,Time constraint
+346,Student_346,AWS Solutions Architect,TRUE,
+347,Student_347,MongoDB,FALSE,Lack of preparation
+348,Student_348,AWS Cloud Practitioner,TRUE,
+349,Student_349,AWS Solutions Architect,FALSE,Workload pressure
+350,Student_350,MongoDB,TRUE,
+351,Student_351,AWS Cloud Practitioner,FALSE,Exam not booked
+352,Student_352,AWS Solutions Architect,TRUE,
+353,Student_353,MongoDB,FALSE,Cost issue
+354,Student_354,AWS Cloud Practitioner,TRUE,
+355,Student_355,AWS Solutions Architect,FALSE,Time constraint
+356,Student_356,MongoDB,TRUE,
+357,Student_357,AWS Cloud Practitioner,FALSE,Lack of preparation
+358,Student_358,AWS Solutions Architect,TRUE,
+359,Student_359,MongoDB,FALSE,Workload pressure
+360,Student_360,AWS Cloud Practitioner,TRUE,
+361,Student_361,AWS Solutions Architect,FALSE,Exam not booked
+362,Student_362,MongoDB,TRUE,
+363,Student_363,AWS Cloud Practitioner,FALSE,Cost issue
+364,Student_364,AWS Solutions Architect,TRUE,
+365,Student_365,MongoDB,FALSE,Time constraint
+366,Student_366,AWS Cloud Practitioner,TRUE,
+367,Student_367,AWS Solutions Architect,FALSE,Lack of preparation
+368,Student_368,MongoDB,TRUE,
+369,Student_369,AWS Cloud Practitioner,FALSE,Workload pressure
+370,Student_370,AWS Solutions Architect,TRUE,
+371,Student_371,MongoDB,FALSE,Exam not booked
+372,Student_372,AWS Cloud Practitioner,TRUE,
+373,Student_373,AWS Solutions Architect,FALSE,Cost issue
+374,Student_374,MongoDB,TRUE,
+375,Student_375,AWS Cloud Practitioner,FALSE,Time constraint
+376,Student_376,AWS Solutions Architect,TRUE,
+377,Student_377,MongoDB,FALSE,Lack of preparation
+378,Student_378,AWS Cloud Practitioner,TRUE,
+379,Student_379,AWS Solutions Architect,FALSE,Workload pressure
+380,Student_380,MongoDB,TRUE,
+381,Student_381,AWS Cloud Practitioner,FALSE,Exam not booked
+382,Student_382,AWS Solutions Architect,TRUE,
+383,Student_383,MongoDB,FALSE,Cost issue
+384,Student_384,AWS Cloud Practitioner,TRUE,
+385,Student_385,AWS Solutions Architect,FALSE,Time constraint
+386,Student_386,MongoDB,TRUE,
+387,Student_387,AWS Cloud Practitioner,FALSE,Lack of preparation
+388,Student_388,AWS Solutions Architect,TRUE,
+389,Student_389,MongoDB,FALSE,Workload pressure
+390,Student_390,AWS Cloud Practitioner,TRUE,
+391,Student_391,AWS Solutions Architect,FALSE,Exam not booked
+392,Student_392,MongoDB,TRUE,
+393,Student_393,AWS Cloud Practitioner,FALSE,Cost issue
+394,Student_394,AWS Solutions Architect,TRUE,
+395,Student_395,MongoDB,FALSE,Time constraint
+396,Student_396,AWS Cloud Practitioner,TRUE,
+397,Student_397,AWS Solutions Architect,FALSE,Lack of preparation
+398,Student_398,MongoDB,TRUE,
+399,Student_399,AWS Cloud Practitioner,FALSE,Workload pressure
+400,Student_400,AWS Solutions Architect,TRUE,
+401,Student_401,MongoDB,FALSE,Exam not booked
+402,Student_402,AWS Cloud Practitioner,TRUE,
+403,Student_403,AWS Solutions Architect,FALSE,Cost issue
+404,Student_404,MongoDB,TRUE,
+405,Student_405,AWS Cloud Practitioner,FALSE,Time constraint
+406,Student_406,AWS Solutions Architect,TRUE,
+407,Student_407,MongoDB,FALSE,Lack of preparation
+408,Student_408,AWS Cloud Practitioner,TRUE,
+409,Student_409,AWS Solutions Architect,FALSE,Workload pressure
+410,Student_410,MongoDB,TRUE,
+411,Student_411,AWS Cloud Practitioner,FALSE,Exam not booked
+412,Student_412,AWS Solutions Architect,TRUE,
+413,Student_413,MongoDB,FALSE,Cost issue
+414,Student_414,AWS Cloud Practitioner,TRUE,
+415,Student_415,AWS Solutions Architect,FALSE,Time constraint
+416,Student_416,MongoDB,TRUE,
+417,Student_417,AWS Cloud Practitioner,FALSE,Lack of preparation
+418,Student_418,AWS Solutions Architect,TRUE,
+419,Student_419,MongoDB,FALSE,Workload pressure
+420,Student_420,AWS Cloud Practitioner,TRUE,
+421,Student_421,AWS Solutions Architect,FALSE,Exam not booked
+422,Student_422,MongoDB,TRUE,
+423,Student_423,AWS Cloud Practitioner,FALSE,Cost issue
+424,Student_424,AWS Solutions Architect,TRUE,
+425,Student_425,MongoDB,FALSE,Time constraint
+426,Student_426,AWS Cloud Practitioner,TRUE,
+427,Student_427,AWS Solutions Architect,FALSE,Lack of preparation
+428,Student_428,MongoDB,TRUE,
+429,Student_429,AWS Cloud Practitioner,FALSE,Workload pressure
+430,Student_430,AWS Solutions Architect,TRUE,
+431,Student_431,MongoDB,FALSE,Exam not booked
+432,Student_432,AWS Cloud Practitioner,TRUE,
+433,Student_433,AWS Solutions Architect,FALSE,Cost issue
+434,Student_434,MongoDB,TRUE,
+435,Student_435,AWS Cloud Practitioner,FALSE,Time constraint
+436,Student_436,AWS Solutions Architect,TRUE,
+437,Student_437,MongoDB,FALSE,Lack of preparation
+438,Student_438,AWS Cloud Practitioner,TRUE,
+439,Student_439,AWS Solutions Architect,FALSE,Workload pressure
+440,Student_440,MongoDB,TRUE,
+441,Student_441,AWS Cloud Practitioner,FALSE,Exam not booked
+442,Student_442,AWS Solutions Architect,TRUE,
+443,Student_443,MongoDB,FALSE,Cost issue
+444,Student_444,AWS Cloud Practitioner,TRUE,
+445,Student_445,AWS Solutions Architect,FALSE,Time constraint
+446,Student_446,MongoDB,TRUE,
+447,Student_447,AWS Cloud Practitioner,FALSE,Lack of preparation
+448,Student_448,AWS Solutions Architect,TRUE,
+449,Student_449,MongoDB,FALSE,Workload pressure
+450,Student_450,AWS Cloud Practitioner,TRUE,
+451,Student_451,AWS Solutions Architect,FALSE,Exam not booked
+452,Student_452,MongoDB,TRUE,
+453,Student_453,AWS Cloud Practitioner,FALSE,Cost issue
+454,Student_454,AWS Solutions Architect,TRUE,
+455,Student_455,MongoDB,FALSE,Time constraint
+456,Student_456,AWS Cloud Practitioner,TRUE,
+457,Student_457,AWS Solutions Architect,FALSE,Lack of preparation
+458,Student_458,MongoDB,TRUE,
+459,Student_459,AWS Cloud Practitioner,FALSE,Workload pressure
+460,Student_460,AWS Solutions Architect,TRUE,
+461,Student_461,MongoDB,FALSE,Exam not booked
+462,Student_462,AWS Cloud Practitioner,TRUE,
+463,Student_463,AWS Solutions Architect,FALSE,Cost issue
+464,Student_464,MongoDB,TRUE,
+465,Student_465,AWS Cloud Practitioner,FALSE,Time constraint
+466,Student_466,AWS Solutions Architect,TRUE,
+467,Student_467,MongoDB,FALSE,Lack of preparation
+468,Student_468,AWS Cloud Practitioner,TRUE,
+469,Student_469,AWS Solutions Architect,FALSE,Workload pressure
+470,Student_470,MongoDB,TRUE,
+471,Student_471,AWS Cloud Practitioner,FALSE,Exam not booked
+472,Student_472,AWS Solutions Architect,TRUE,
+473,Student_473,MongoDB,FALSE,Cost issue
+474,Student_474,AWS Cloud Practitioner,TRUE,
+475,Student_475,AWS Solutions Architect,FALSE,Time constraint
+476,Student_476,MongoDB,TRUE,
+477,Student_477,AWS Cloud Practitioner,FALSE,Lack of preparation
+478,Student_478,AWS Solutions Architect,TRUE,
+479,Student_479,MongoDB,FALSE,Workload pressure
+480,Student_480,AWS Cloud Practitioner,TRUE,
+481,Student_481,AWS Solutions Architect,FALSE,Exam not booked
+482,Student_482,MongoDB,TRUE,
+483,Student_483,AWS Cloud Practitioner,FALSE,Cost issue
+484,Student_484,AWS Solutions Architect,TRUE,
+485,Student_485,MongoDB,FALSE,Time constraint
+486,Student_486,AWS Cloud Practitioner,TRUE,
+487,Student_487,AWS Solutions Architect,FALSE,Lack of preparation
+488,Student_488,MongoDB,TRUE,
+489,Student_489,AWS Cloud Practitioner,FALSE,Workload pressure
+490,Student_490,AWS Solutions Architect,TRUE,
+491,Student_491,MongoDB,FALSE,Exam not booked
+492,Student_492,AWS Cloud Practitioner,TRUE,
+493,Student_493,AWS Solutions Architect,FALSE,Cost issue
+494,Student_494,MongoDB,TRUE,
+495,Student_495,AWS Cloud Practitioner,FALSE,Time constraint
+496,Student_496,AWS Solutions Architect,TRUE,
+497,Student_497,MongoDB,FALSE,Lack of preparation
+498,Student_498,AWS Cloud Practitioner,TRUE,
+499,Student_499,AWS Solutions Architect,FALSE,Workload pressure
+500,Student_500,MongoDB,TRUE,
